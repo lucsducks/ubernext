@@ -1,0 +1,4 @@
+project_id = "yiryzpqefgzmcngdutst"
+
+[functions.create-trip-payment]
+verify_jwt = false
